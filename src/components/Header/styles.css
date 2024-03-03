@@ -1,0 +1,19 @@
+/* Header.module.css */
+.link {
+    text-decoration: none;
+    color: inherit;
+    width: auto !important;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
+
+.drawerLink {
+    text-decoration: none;
+    color: inherit;
+}
+
+.drawerLink:hover {
+    text-decoration: underline;
+}
